@@ -89,7 +89,7 @@ I'm interested in collaborating on challenging backend systems, financial applic
 
 - 🌐 **Portfolio:** [rayatpisheh.github.io](https://rayatpisheh.github.io/)
 - 💻 **GitHub:** [github.com/rayatpisheh](https://github.com/rayatpisheh)
-- 💼 **LinkedIn:** Find my profile through my portfolio website.
+- 💼 **LinkedIn:** [linkedin.com/in/mohammad-rayat-pisheh-50380962](https://www.linkedin.com/in/mohammad-rayat-pisheh-50380962/)
 
 If you're building a backend-heavy product or modernizing an existing system, feel free to reach out.
 
